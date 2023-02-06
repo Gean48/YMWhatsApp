@@ -1,5 +1,5 @@
 {
-	"version": "28.1",
+	"version": "29.1",
 	"download": "https://www.whatsmods.com.br/2022/12/whatsapp-beta-atualizado.html",
 	"update": [
 		{
